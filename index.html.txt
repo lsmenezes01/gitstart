@@ -3,7 +3,11 @@
 foda
 </head>
 <body>
-ovo vem do cú da galinha 2
+<<<<<<< HEAD
+ovo vem do cú da galinha 3
+=======
+ovo vem do cú da galinha 1
+>>>>>>> e9ed8cda06175c30be1acb4e9c5cbd2a7d77d0a2
 buceta é bom
 </body>
 </html>
